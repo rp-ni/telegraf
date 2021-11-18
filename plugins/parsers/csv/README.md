@@ -82,7 +82,7 @@ values.
 ### csv_timestamp_column, csv_timestamp_format
 
 By default the current time will be used for all created metrics, to set the
-time using the JSON document you can use the `csv_timestamp_column` and
+time using the CSV document you can use the `csv_timestamp_column` and
 `csv_timestamp_format` options together to set the time to a value in the parsed
 document.
 
